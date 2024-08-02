@@ -1,0 +1,354 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Classic White Tee",
+        "category": "T-Shirts",
+        "description": "Essential crew neck tee in soft cotton",
+        "price": 19.99
+      },
+      {
+        "id": 2,
+        "name": "Skinny Jeans",
+        "category": "Pants",
+        "description": "High-waisted skinny jeans in dark wash",
+        "price": 59.99
+      },
+      {
+        "id": 3,
+        "name": "Floral Midi Dress",
+        "category": "Dresses",
+        "description": "Elegant floral print midi dress with ruffle details",
+        "price": 79.99
+      },
+      {
+        "id": 4,
+        "name": "Leather Biker Jacket",
+        "category": "Outerwear",
+        "description": "Classic biker jacket in genuine leather",
+        "price": 199.99
+      },
+      {
+        "id": 5,
+        "name": "Striped Polo Shirt",
+        "category": "T-Shirts",
+        "description": "Casual striped polo in breathable fabric",
+        "price": 34.99
+      },
+      {
+        "id": 6,
+        "name": "High-Waist Leggings",
+        "category": "Activewear",
+        "description": "Comfortable high-waist leggings for yoga and gym",
+        "price": 44.99
+      },
+      {
+        "id": 7,
+        "name": "Denim Shorts",
+        "category": "Shorts",
+        "description": "Classic denim shorts with frayed hem",
+        "price": 39.99
+      },
+      {
+        "id": 8,
+        "name": "Oversized Sweater",
+        "category": "Sweaters",
+        "description": "Cozy oversized knit sweater in pastel colors",
+        "price": 69.99
+      },
+      {
+        "id": 9,
+        "name": "Silk Blouse",
+        "category": "Tops",
+        "description": "Elegant silk blouse with button-down front",
+        "price": 89.99
+      },
+      {
+        "id": 10,
+        "name": "Cargo Pants",
+        "category": "Pants",
+        "description": "Versatile cargo pants with multiple pockets",
+        "price": 54.99
+      },
+      {
+        "id": 11,
+        "name": "Maxi Skirt",
+        "category": "Skirts",
+        "description": "Flowing maxi skirt with side slit",
+        "price": 49.99
+      },
+      {
+        "id": 12,
+        "name": "Hooded Sweatshirt",
+        "category": "Sweaters",
+        "description": "Comfortable hooded sweatshirt in various colors",
+        "price": 39.99
+      },
+      {
+        "id": 13,
+        "name": "Tailored Blazer",
+        "category": "Outerwear",
+        "description": "Sharp tailored blazer for a professional look",
+        "price": 129.99
+      },
+      {
+        "id": 14,
+        "name": "Pleated Midi Skirt",
+        "category": "Skirts",
+        "description": "Elegant pleated midi skirt in metallic finish",
+        "price": 69.99
+      },
+      {
+        "id": 15,
+        "name": "V-Neck Sweater",
+        "category": "Sweaters",
+        "description": "Soft V-neck sweater in merino wool blend",
+        "price": 59.99
+      },
+      {
+        "id": 16,
+        "name": "Cropped Tank Top",
+        "category": "Tops",
+        "description": "Trendy cropped tank top with racer back",
+        "price": 24.99
+      },
+      {
+        "id": 17,
+        "name": "Wrap Dress",
+        "category": "Dresses",
+        "description": "Flattering wrap dress in bold print",
+        "price": 84.99
+      },
+      {
+        "id": 18,
+        "name": "Slim Fit Chinos",
+        "category": "Pants",
+        "description": "Classic slim fit chinos in various colors",
+        "price": 49.99
+      },
+      {
+        "id": 19,
+        "name": "Denim Jacket",
+        "category": "Outerwear",
+        "description": "Versatile denim jacket with distressed details",
+        "price": 79.99
+      },
+      {
+        "id": 20,
+        "name": "Printed Romper",
+        "category": "Jumpsuits",
+        "description": "Playful printed romper for summer days",
+        "price": 54.99
+      },
+      {
+        "id": 21,
+        "name": "Linen Shirt",
+        "category": "Tops",
+        "description": "Breathable linen shirt for a casual look",
+        "price": 44.99
+      },
+      {
+        "id": 22,
+        "name": "Pencil Skirt",
+        "category": "Skirts",
+        "description": "Classic pencil skirt for office wear",
+        "price": 59.99
+      },
+      {
+        "id": 23,
+        "name": "Graphic Tee",
+        "category": "T-Shirts",
+        "description": "Fun graphic tee with retro design",
+        "price": 29.99
+      },
+      {
+        "id": 24,
+        "name": "Wide Leg Trousers",
+        "category": "Pants",
+        "description": "Stylish wide leg trousers in lightweight fabric",
+        "price": 69.99
+      },
+      {
+        "id": 25,
+        "name": "Off-Shoulder Top",
+        "category": "Tops",
+        "description": "Trendy off-shoulder top with ruffle detail",
+        "price": 39.99
+      },
+      {
+        "id": 26,
+        "name": "Puffer Jacket",
+        "category": "Outerwear",
+        "description": "Warm puffer jacket for cold weather",
+        "price": 109.99
+      },
+      {
+        "id": 27,
+        "name": "Bodycon Dress",
+        "category": "Dresses",
+        "description": "Figure-hugging bodycon dress for nights out",
+        "price": 64.99
+      },
+      {
+        "id": 28,
+        "name": "Cargo Shorts",
+        "category": "Shorts",
+        "description": "Practical cargo shorts with multiple pockets",
+        "price": 44.99
+      },
+      {
+        "id": 29,
+        "name": "Turtleneck Sweater",
+        "category": "Sweaters",
+        "description": "Cozy turtleneck sweater for winter layering",
+        "price": 54.99
+      },
+      {
+        "id": 30,
+        "name": "Palazzo Pants",
+        "category": "Pants",
+        "description": "Flowy palazzo pants in bold print",
+        "price": 59.99
+      },
+      {
+        "id": 31,
+        "name": "Cropped Hoodie",
+        "category": "Sweaters",
+        "description": "Trendy cropped hoodie in pastel color",
+        "price": 49.99
+      },
+      {
+        "id": 32,
+        "name": "Denim Skirt",
+        "category": "Skirts",
+        "description": "Classic denim skirt with button-front",
+        "price": 39.99
+      },
+      {
+        "id": 33,
+        "name": "Satin Camisole",
+        "category": "Tops",
+        "description": "Luxurious satin camisole with lace trim",
+        "price": 34.99
+      },
+      {
+        "id": 34,
+        "name": "Utility Jumpsuit",
+        "category": "Jumpsuits",
+        "description": "Practical utility jumpsuit with belt",
+        "price": 89.99
+      },
+      {
+        "id": 35,
+        "name": "Knit Cardigan",
+        "category": "Sweaters",
+        "description": "Comfortable knit cardigan for layering",
+        "price": 59.99
+      },
+      {
+        "id": 36,
+        "name": "Leather Miniskirt",
+        "category": "Skirts",
+        "description": "Edgy leather miniskirt for night outs",
+        "price": 79.99
+      },
+      {
+        "id": 37,
+        "name": "Printed Maxi Dress",
+        "category": "Dresses",
+        "description": "Bohemian inspired printed maxi dress",
+        "price": 94.99
+      },
+      {
+        "id": 38,
+        "name": "Cropped Wide Leg Jeans",
+        "category": "Pants",
+        "description": "Trendy cropped wide leg jeans in light wash",
+        "price": 69.99
+      },
+      {
+        "id": 39,
+        "name": "Sleeveless Turtleneck",
+        "category": "Tops",
+        "description": "Chic sleeveless turtleneck in ribbed fabric",
+        "price": 29.99
+      },
+      {
+        "id": 40,
+        "name": "Faux Fur Coat",
+        "category": "Outerwear",
+        "description": "Glamorous faux fur coat for winter",
+        "price": 149.99
+      },
+      {
+        "id": 41,
+        "name": "Tie-Front Crop Top",
+        "category": "Tops",
+        "description": "Cute tie-front crop top in gingham print",
+        "price": 24.99
+      },
+      {
+        "id": 42,
+        "name": "Culotte Jumpsuit",
+        "category": "Jumpsuits",
+        "description": "Elegant culotte jumpsuit for formal occasions",
+        "price": 99.99
+      },
+      {
+        "id": 43,
+        "name": "Ripped Mom Jeans",
+        "category": "Pants",
+        "description": "Trendy ripped mom jeans in vintage wash",
+        "price": 64.99
+      },
+      {
+        "id": 44,
+        "name": "Peplum Top",
+        "category": "Tops",
+        "description": "Flattering peplum top with sweetheart neckline",
+        "price": 39.99
+      },
+      {
+        "id": 45,
+        "name": "Shirt Dress",
+        "category": "Dresses",
+        "description": "Versatile shirt dress with waist tie",
+        "price": 74.99
+      },
+      {
+        "id": 46,
+        "name": "Bomber Jacket",
+        "category": "Outerwear",
+        "description": "Classic bomber jacket in satin finish",
+        "price": 89.99
+      },
+      {
+        "id": 47,
+        "name": "Lace Cami Top",
+        "category": "Tops",
+        "description": "Delicate lace cami top for layering",
+        "price": 29.99
+      },
+      {
+        "id": 48,
+        "name": "Wrap Skirt",
+        "category": "Skirts",
+        "description": "Stylish wrap skirt with asymmetric hem",
+        "price": 54.99
+      },
+      {
+        "id": 49,
+        "name": "Oversized Denim Jacket",
+        "category": "Outerwear",
+        "description": "Trendy oversized denim jacket in acid wash",
+        "price": 84.99
+      },
+      {
+        "id": 50,
+        "name": "Halter Neck Jumpsuit",
+        "category": "Jumpsuits",
+        "description": "Elegant halter neck jumpsuit for evening wear",
+        "price": 109.99
+      }
+    ]
+  }
